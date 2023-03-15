@@ -1,0 +1,17 @@
+
+__Author__ = "pyProjects3"
+__Copyright__ = "Copyright © Python3 Projects Development"
+__PythonVersion__ = "Python 3.8"
+__ProgrammingLanguage__ = "Python"
+__FileName__ = "Version.py"
+__Package__ = "RobloxPyApi3"
+__GitHubUsername__ = "pyProjects3"
+__GitHubPage__ = None
+__Discord__ = "Coming soon..."
+__DiscordServer__ = "Coming soon..."
+__GitHub__ = "https://github.com/pyProjects3"
+__moduleName__ = "RobloxPyApi3"
+__RobloxUserName__ = "immahack2677"
+__RobloxProfile__ = "https://roblox.com/users/2013402955/profile"
+__RobloxUserId__ = "2013402955"
+__PackageVersion__ = "1.0.6"
